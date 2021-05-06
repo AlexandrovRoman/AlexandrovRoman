@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Roman
 #### I am Backend Python developer
-![Avatar](https://github.com/AlexandrovRoman/Sudoku-PyQT5/raw/master/avatar.jpg)
+![Avatar](https://github.com/AlexandrovRoman/AlexandrovRoman/raw/master/avatar.jpg)
 
 
 Skills: PYTHON / FLASK / DJANGO / POSTGRESQL / GIT
