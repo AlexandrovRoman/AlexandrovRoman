@@ -2,7 +2,9 @@
 #### I am Backend developer
 
 Languages: PYTHON / GO / SQL / JAVASCRIPT
+
 Frameworks: FLASK / DJANGO / GIN
+
 Other: POSTGRESQL / GIT / MINIO
 
 - 🔭 I’m currently working on AFO 
