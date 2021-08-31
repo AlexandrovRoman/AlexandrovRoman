@@ -1,10 +1,8 @@
 ### Hi there 👋, My name is Roman
 #### I am Backend developer
 
-Languages: PYTHON / GO / SQL / JAVASCRIPT
-
-Frameworks: FLASK / DJANGO / GIN
-
+Languages: PYTHON / GO / SQL / JAVASCRIPT<br>
+Frameworks: FLASK / DJANGO / GIN<br>
 Other: POSTGRESQL / GIT / MINIO
 
 - 🔭 I’m currently working on AFO 
