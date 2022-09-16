@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Roman
 <img src="images/Hi.gif" height="32"/></h1>
-<h3 align="center">Backend developer from Russia 🇷🇺</h3>
+<h3 align="center">Backend developer from Russia</h3>
 
 ### Connect with me:
 <p align="left">
