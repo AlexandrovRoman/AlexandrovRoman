@@ -40,6 +40,3 @@
 <a href="https://www.jetbrains.com/go/" target="_blank" rel="noreferrer"> <img src="icons/tools/goland.svg" alt="goland" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="icons/tools/postman.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrovRoman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
