@@ -24,9 +24,17 @@
 <p align="left"> 
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="icons/frameworks/flask.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="icons/frameworks/django.svg" alt="js" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="icons/frameworks/fastapi.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"> <img src="icons/frameworks/gin-gonic.png" alt="html5" height="45"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="icons/frameworks/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="icons/frameworks/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> 
+<a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"> <img src="icons/frameworks/gin-gonic.png" alt="gin" height="45"/> </a> 
+</p>
+
+
+### Services:
+<p align="left"> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="icons/services/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="icons/services/minio.svg" alt="minio" width="40" height="40"/> </a> 
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="icons/services/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/> </a> 
 </p>
 
 
